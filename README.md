@@ -7,6 +7,7 @@
 + [44个 Javascript 变态题解析 (下) ](https://github.com/xiaoyu2er/blog/issues/3)
 + [彻底搞懂 async & defer](https://github.com/xiaoyu2er/blog/issues/8)
 + [送给产品经理一段代码 (!(~+[]) + {})[--[~+""][+[]] * [~+[]] + ~~!+[]] + ({} + [])[[~!+[]] * ~+[]] ](https://github.com/xiaoyu2er/blog/issues/10)
++ [Array.prototype.forEach(callback) 的 callback 到底执行了几次?](https://github.com/xiaoyu2er/blog/issues/11)
 
 ## 工具
 + [使用 Gulp 来构建你的 workflow](https://github.com/xiaoyu2er/blog/issues/4)
